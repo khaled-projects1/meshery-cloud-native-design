@@ -37,6 +37,8 @@ PersistentVolumeClaim.
 
 Earned the **Design Pioneer** badge from Layer5 for creating my first design.
 
+<div><a href="https://cloud.layer5.io/user/2bdef8f1-6483-4271-b649-518cc91c4049?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+
 ## Next improvements
 
 - Fix the namespace configuration
